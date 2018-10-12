@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "license": "proprietary",
+    "type": "project",
+    "require": {
+        "lcv/distribution-channel-bundle": "dev-trunk"
+    }
+}
